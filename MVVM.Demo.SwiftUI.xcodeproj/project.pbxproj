@@ -1029,7 +1029,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		6FD86CDA2940033C0052C759 /* XCRemoteSwiftPackageReference "BusyIndicator" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "git@github.com:jasonjrr/BusyIndicator.git";
+			repositoryURL = "https://github.com/jasonjrr/BusyIndicator.git";
 			requirement = {
 				kind = exactVersion;
 				version = 1.1.0;

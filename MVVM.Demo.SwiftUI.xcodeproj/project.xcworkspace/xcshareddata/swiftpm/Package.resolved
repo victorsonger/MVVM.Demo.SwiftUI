@@ -4,7 +4,7 @@
     {
       "identity" : "busyindicator",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:jasonjrr/BusyIndicator.git",
+      "location" : "https://github.com/jasonjrr/BusyIndicator.git",
       "state" : {
         "revision" : "6c055630b41f7f0d1faaf67ad7a991e43460bbb6",
         "version" : "1.1.0"
